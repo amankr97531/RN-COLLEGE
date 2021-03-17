@@ -1,0 +1,128 @@
+#main
+{
+	
+     width:100%;
+	 height:100%;
+	 background-color:yellow;
+	 margin:0;
+	 position:relative;
+}
+#header
+{
+	width:100%;
+	height:20%;
+	background-color:steelgrey;
+	border-radius: 5px;
+	margin:0;
+	padding:0;
+	display:flex;
+	min-height:10vh;
+	justify-content:center;
+	border:2px solid black;
+	box-sizing:borderbox;
+    position:relative;
+}
+#mid
+{
+	width:1500px;
+	height:525px;
+	background-color:grey;
+	
+}
+#mid1
+{
+	width:200px;
+	height:525px;
+	background-color:lightgreen;
+	
+}
+#mid2
+{
+	width:200px;
+	height:260px;
+	background-color:lightblue;
+	
+}
+#mid22
+{
+	width:900px;
+	height:525px;
+	background-color:blue;
+	float:right;
+}
+#mid3
+{
+	width:400px;
+	height:525px;
+	background-color:lightgreen;
+	float:right;
+}
+#footer
+{
+	width:1500px;
+	height:50px;
+	background-color:LIGHTBLUE;
+	margin:0;
+	padding:0;
+	display:flex;
+	justify-content:center;
+    position:relative;
+	
+}
+#footer2
+{
+	width:1500px;
+	height:28px;
+	background-color:LIGHTBLUE;
+}
+#usefullinks
+{
+	width:300px;
+	height:525px;
+	background-color:pink;
+	
+			border:2px solid black;
+			POSITION:RELATIVE;
+}
+#aboutcollege
+{
+	width:1200px;
+	height:525px;
+	background-color:lightgrey;
+	float:right;
+	margin:0;
+	padding:0;
+	display:flex;
+	min-height:10vh;
+	justify-content:center;
+	border:2px solid black;
+	box-sizing:borderbox;
+    position:relative;
+}
+#WRITETOUS
+{
+	width:500px;
+	height:300px;
+	background-color:dodgerblue;
+	
+}
+#LOGINLINKS
+{
+	width:500px;
+	height:300px;
+	background-color:dodgerblue;
+	FLOAT:RIGHT;
+}
+#IMPORTANTLINKS
+{
+	width:500px;
+	height:300px;
+	background-color:dodgerblue;
+	FLOAT:RIGHT;
+}
+#designed
+{
+	width:1500px;
+	height:100px;
+	background-color:blue;
+}
