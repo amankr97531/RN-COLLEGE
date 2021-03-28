@@ -1,25 +1,24 @@
 #main
 {
 	
-     width:100%;
-	 height:100%;
+     width:absolute;
+	 height:absolute;
 	 background-color:yellow;
 	 margin:0;
-	 position:relative;
+	 position:absolute;
 }
 #header
 {
 	width:100%;
-	height:20%;
+	height:10%;
 	background-color:steelgrey;
-	border-radius: 5px;
+	
 	margin:0;
 	padding:0;
-	display:flex;
-	min-height:10vh;
-	justify-content:center;
-	border:2px solid black;
-	box-sizing:borderbox;
+	display:relative;
+	
+	
+	
     position:relative;
 }
 #mid
@@ -27,6 +26,7 @@
 	width:1500px;
 	height:525px;
 	background-color:grey;
+	position:relative;
 	
 }
 #mid1
@@ -34,6 +34,7 @@
 	width:200px;
 	height:525px;
 	background-color:lightgreen;
+	position:relative;
 	
 }
 #mid2
@@ -41,6 +42,7 @@
 	width:200px;
 	height:260px;
 	background-color:lightblue;
+	position:relative;
 	
 }
 #mid22
@@ -49,6 +51,8 @@
 	height:525px;
 	background-color:blue;
 	float:right;
+	
+	position:relative;
 }
 #mid3
 {
@@ -56,16 +60,14 @@
 	height:525px;
 	background-color:lightgreen;
 	float:right;
+	position:relative;
 }
 #footer
 {
 	width:1500px;
 	height:50px;
 	background-color:LIGHTBLUE;
-	margin:0;
-	padding:0;
-	display:flex;
-	justify-content:center;
+	
     position:relative;
 	
 }
@@ -74,6 +76,7 @@
 	width:1500px;
 	height:28px;
 	background-color:LIGHTBLUE;
+	position:relative;
 }
 #usefullinks
 {
@@ -104,6 +107,7 @@
 	width:500px;
 	height:300px;
 	background-color:dodgerblue;
+	position:relative;
 	
 }
 #LOGINLINKS
@@ -112,6 +116,7 @@
 	height:300px;
 	background-color:dodgerblue;
 	FLOAT:RIGHT;
+	position:relative;
 }
 #IMPORTANTLINKS
 {
@@ -119,10 +124,12 @@
 	height:300px;
 	background-color:dodgerblue;
 	FLOAT:RIGHT;
+	position:relative;
 }
 #designed
 {
 	width:1500px;
 	height:100px;
 	background-color:blue;
+	position:relative;
 }
